@@ -1,0 +1,4 @@
+[2026-03-19 12:03:58] local.INFO: Admin logged in {"username":"admin","ip":"127.0.0.1"} 
+[2026-03-19 12:08:33] local.INFO: Admin action {"method":"POST","url":"http://127.0.0.1:8000/expenses","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-19 12:10:55] local.INFO: Admin action {"method":"DELETE","url":"http://127.0.0.1:8000/expenses/24","ip":"127.0.0.1","admin":"admin","status":302} 
+[2026-03-19 12:21:45] local.INFO: Admin logged out {"username":"admin"} 
